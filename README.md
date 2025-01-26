@@ -64,9 +64,7 @@ By configuring intents, entities, and utterances in CLU, the system can classify
 
 ## References
 
-[This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this project as per the license terms.
-](https://learn.microsoft.com/en-us/training/modules/create-language-model-with-language-understanding/4-exercise-create-language-understanding-application)
----
+https://learn.microsoft.com/en-us/training/modules/create-language-model-with-language-understanding/4-exercise-create-language-understanding-application
 
 ## Acknowledgments
 
