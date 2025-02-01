@@ -64,9 +64,4 @@ By configuring intents, entities, and utterances in CLU, the system can classify
 
 ## References
 
-https://learn.microsoft.com/en-us/training/modules/create-language-model-with-language-understanding/4-exercise-create-language-understanding-application
-
-## Acknowledgments
-
-- **Azure Language Studio**: For providing a user-friendly interface to build and test the CLU application.
-- **Microsoft Learn**: For resources and tutorials on Azure AI services.
+Exercise: [Microsoft Learn Training Module](https://learn.microsoft.com/en-us/training/modules/create-language-model-with-language-understanding/4-exercise-create-language-understanding-application)
